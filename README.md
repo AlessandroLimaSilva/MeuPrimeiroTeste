@@ -1,2 +1,2 @@
 # MeuPrimeiroTeste
-#Testando o selenium para efetuar testess de automação.
+Testando o selenium para efetuar testes de automação.
